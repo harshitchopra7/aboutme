@@ -22,3 +22,16 @@ html {
 h2{
   color: #fffdd0;
 }
+button{
+  background-color: #5a5a5a;
+  border-color: #5a5a5a;
+  color: #fffdd0;
+  border-width: 5px;
+  border-radius: 2px;
+}
+button:hover{
+  background-color: 	#707070;
+  border-color: #707070;
+  border-width: 7x;
+  border-radius: 7px;
+}
