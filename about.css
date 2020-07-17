@@ -32,3 +32,6 @@ button:hover{
   border-width: 7x;
   border-radius: 7px;
 }
+hr{
+  max-width: 285px;
+}
