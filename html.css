@@ -1,0 +1,16 @@
+#header{
+    float: left;
+}
+#headers{
+    float: right;
+}
+#head{
+    
+    display: inline-block;
+}
+
+#header li{
+    display: inline-block;
+    list-style: none;
+
+}
